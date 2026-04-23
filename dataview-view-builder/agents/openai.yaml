@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Dataview View Builder"
+  short_description: "Create Obsidian Dataview and DataviewJS views"
+  default_prompt: "Use $dataview-view-builder to create a Dataview or DataviewJS view for my Obsidian notes."
